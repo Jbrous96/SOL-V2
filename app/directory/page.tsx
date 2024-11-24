@@ -21,14 +21,13 @@ const businesses = [
     location: "Plano, TX",
     image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=2070&auto=format&fit=crop",
   },
-  // Add more businesses here
 ];
 
 export default function DirectoryPage() {
   return (
     <div className="container py-16">
-      <div className="mb-12">
-        <h1 className="mb-4 text-4xl font-bold">Business Directory</h1>
+      <div className="mb-12 text-center">
+        <h1 className="directory-title">Directory</h1>
         <p className="text-lg text-muted-foreground">
           Discover and connect with exceptional businesses in our network
         </p>
