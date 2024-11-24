@@ -100,12 +100,12 @@
   white-space: nowrap;
   animation: moveWords 7s infinite ease;
   background: linear-gradient(55deg, 
-    oklch(55% 0.15 199) 0%,
-    oklch(60% 0.12 199) 20%,
-    oklch(65% 0.15 199) 40%,
-    oklch(70% 0.15 199) 60%,
-    oklch(65% 0.12 199) 80%,
-    oklch(60% 0.12 199) 100%
+    oklch(4.79% 0.0123 276.2) 0%,
+    oklch(8.79% 0.0123 276.2) 20%,
+    oklch(10.79% 0.0123 276.2) 40%,
+    oklch(14.79% 0.0123 276.2) 60%,
+    oklch(16.79% 0.0123 276.2) 80%,
+    oklch(20.79% 0.0123 276.2) 100%
   );
   -webkit-background-clip: text;
   color: transparent;
