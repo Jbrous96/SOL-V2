@@ -437,3 +437,20 @@
     width: 25px;
   }
 }
+
+.directory-title {
+  font-size: 6rem;
+  font-weight: bold;
+  color: oklch(95% 0 0);
+  text-transform: uppercase;
+  position: relative;
+  letter-spacing: -0.02em;
+  transform-style: preserve-3d;
+  text-shadow: 
+    1px 1px 1px oklch(85% 0 0),
+    2px 2px 1px oklch(80% 0 0),
+    3px 3px 1px oklch(75% 0 0),
+    4px 4px 1px oklch(70% 0 0),
+    5px 5px 8px oklch(65% 0 0 / 0.4);
+  margin-bottom: 2rem;
+}
